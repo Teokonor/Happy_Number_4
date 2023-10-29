@@ -1,0 +1,10 @@
+1 - true
+3 - false
+4 - false
+7 - true
+10 - true
+12 - false
+15 - false
+23 - true
+44 - true
+111 - false
